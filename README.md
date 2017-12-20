@@ -15,7 +15,7 @@
     1. Call the Marvel API to display a list of characters
     2. Show a detailed view of the character on click of the list item; preferably in a dialogue but this may be a new page if you wish
 * Style the components with a angular material theme of your choice
-* Build the application with the Angular CLI for production
+* Build the application for production
 
 ### Technical questions
 
